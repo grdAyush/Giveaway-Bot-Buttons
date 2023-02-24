@@ -1,0 +1,9 @@
+{
+  "prefix": "g!",
+  "global": true,
+  "delete_commands": false,
+  "dev_guild_id": "",
+  "dev_id": [""],
+  "client_id": "",
+  "error_channel_id": ""
+}
